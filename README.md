@@ -4,7 +4,7 @@
 - 💞️ Se puder colabore nos meus projectos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamilton-yobo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamilton-yobo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <h3>Tenho experiência com as seguintes tecnologias</h3>
